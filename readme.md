@@ -1,4 +1,4 @@
-# Problems That Use A Hash Map
+# Lab - Solve A Hash Map Problem!
 
 ## The Problem - isSubArray
 
